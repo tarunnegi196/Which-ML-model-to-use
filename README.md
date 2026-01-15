@@ -43,7 +43,7 @@ This framework focuses on **decision-making**, not implementation details.
 
 ## How to use this repo
 
-- Watch the video
+- Watch the LinkedIn video
 - Read the notes here
 - Apply the thinking process to your own dataset
 
